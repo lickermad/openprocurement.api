@@ -8,7 +8,7 @@
 .. meta::
     :google-site-verification: kmqHGqhpzgef4t5OVKoQCPa5v-CK14HOLmVrZV2QgmQ
 
-Welcome to openprocurement.api's documentation!
+Fuck up!
 ===============================================
 
 Please report any problems or suggestions for improvement either via the
